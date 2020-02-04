@@ -1,0 +1,3 @@
+[submodule "pdf-bullets"]
+	path = pdf-bullets
+	url = https://github.com/ShoGinn/pdf-bullets
